@@ -1,0 +1,24 @@
+{
+  "name": "how-pipes-works",
+  "version": "1.0.0",
+  "description": "This is an example of how pipes works (aproximately)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOYUSO/how-pipes-works.git"
+  },
+  "keywords": [
+    "pipes",
+    "info",
+    "pill"
+  ],
+  "author": "Antonio Segura",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GOYUSO/how-pipes-works/issues"
+  },
+  "homepage": "https://github.com/GOYUSO/how-pipes-works#readme"
+}
