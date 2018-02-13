@@ -1,5 +1,5 @@
-const myPipe = require('./examples/my-pipe');
-const utils = require('./examples/utils');
+const myPipe = require('./res/my-pipe');
+const utils = require('./res/utils');
 
 myPipe.helloWorld = utils.helloWorld;
 myPipe.anotherFoo = utils.anotherFoo;
